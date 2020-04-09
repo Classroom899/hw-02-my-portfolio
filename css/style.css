@@ -7,3 +7,25 @@
     src: fontawesome;
     
 }
+
+
+.header_spot .main-menu .navbar .navbar-brand {
+
+    padding: 200rem 0 6rem;
+}
+
+.header_area .main-menu .navbar {
+
+    padding: 2rem 20rem;
+}
+
+.header_area .main-menu .nav-item .nav-link {
+
+    font-family: 'PT Serif', serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 1.8rem;
+    color: navy;
+}
+
+
