@@ -14,7 +14,7 @@
     padding: 20rem 6rem;
 }
 
-.header_spot .main-menu .navbar .navbar-link {
+.header_spot .main-menu .navbar {
 
     padding: 2rem 20rem;
 }
@@ -24,7 +24,7 @@
     font-family: 'PT Serif', serif;
     text-transform: uppercase;
     font-weight: 600;
-    padding: 2rem;
+    padding: 2.5rem;
     color: navy;
 }
 
