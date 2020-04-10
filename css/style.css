@@ -3,7 +3,7 @@ body {
 }
 
 .header_spot {
-    color: yellow
+    background-color: #f9f941c7;
 }
 
 
@@ -18,19 +18,20 @@ body {
 }
 
 .collapse-navbar-collapse {
-    padding: 20rem 6rem;
+    padding: 2rem 6rem;
 
 }
 
+/* next time separate these classes to keep it cleaner */
 
 .header_spot .main-menu .navbar .navbar-link {
 
-    padding: 20rem 6rem;
+    padding: 2px 20px;
 }
 
 .header_spot .main-menu .navbar {
 
-    padding: 2rem 20rem;
+    padding: 2px 20px;
 }
 
 .header_spot .main-menu .navbar .nav-link {
@@ -40,6 +41,16 @@ body {
     font-weight: 600;
     padding: 2.5rem;
     color: navy;
+
+
 }
+
+.profile-picture {
+    height: 300px;
+    
+
+
+}
+
 
 
