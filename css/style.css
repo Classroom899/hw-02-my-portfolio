@@ -48,7 +48,11 @@ body {
 .profile-picture {
     height: 300px;
     
+}
 
+.btn {
+    font-family: 'PT Serif', serif;
+    src: fontawesome;
 
 }
 
