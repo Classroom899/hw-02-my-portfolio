@@ -58,3 +58,9 @@ body {
 
 
 
+.contact span{
+    font-family: 'PT Serif', serif;
+    src: fontawesome;
+    padding: 2px 20px;
+
+}
