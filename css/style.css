@@ -68,3 +68,8 @@ body {
 .place-holder {
     height: 300px;
 }
+
+.card-body {
+    text-align: center;
+    align-self: auto;
+}
