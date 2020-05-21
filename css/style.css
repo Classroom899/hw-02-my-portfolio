@@ -73,3 +73,9 @@ body {
     text-align: center;
     align-self: auto;
 }
+
+.container-fluid {
+    text-align: center;
+    align-content: center;
+    font-size: large;
+}
